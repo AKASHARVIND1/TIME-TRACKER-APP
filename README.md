@@ -1,16 +1,29 @@
-# time_tracker_app
+# TimeTrack Pro – Flutter Web App
 
-A new Flutter project.
+A Flutter-based Time Tracking Application with Local Storage support.
 
-## Getting Started
+##  Features
 
-This project is a starting point for a Flutter application.
+- Add Projects
+- Add Tasks
+- Add Time Entries
+- Swipe to Delete Entries
+- Persistent Data using Local Storage
+- Responsive Web UI
 
-A few resources to get you started if this is your first Flutter project:
+## Built With
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
+- SharedPreferences (Local Storage)
+- Material UI
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Author
+
+Akash Aravind  
+B.Tech Robotics Engineering  
+Garden City University
+
+---
+
+ If you like this project, feel free to star it!
